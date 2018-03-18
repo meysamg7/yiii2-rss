@@ -1,0 +1,21 @@
+{
+    "name": "newgates/yii2-rss",
+    "description": "create rss by using array or db query",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","rss"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "meysam goodariz",
+            "email": "meysam.g7@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "newgates\\rss\\": ""
+        }
+    }
+}
